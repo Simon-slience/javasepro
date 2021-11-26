@@ -9,5 +9,6 @@ public class Test7 {
         System.out.println("你好");
         System.out.println("你好");
         System.out.println("你好ma");
+        System.out.println("你好ya");
     }
 }
