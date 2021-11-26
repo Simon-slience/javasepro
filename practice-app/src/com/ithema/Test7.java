@@ -5,6 +5,6 @@ package com.ithema;
 * 判断是否中奖，中的是 i+j形式，代表i个红球+j个蓝球*/
 public class Test7 {
     public static void main(String[] args) {
-
+        System.out.println("你好");
     }
 }
